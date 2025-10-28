@@ -1,7 +1,7 @@
 📘 INSTRUCTION — Extraction de statistiques de football (FBref)
 1️⃣ Comment exécuter le code
 Exécute le script avec :
-python3 groupe_8_github.py
+python3 rk.py
 Le script va automatiquement lancer le scraping et créer plusieurs fichiers CSV dans le même dossier.
 
 2️⃣ Durée d’exécution
